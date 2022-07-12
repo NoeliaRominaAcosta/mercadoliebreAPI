@@ -18,7 +18,7 @@ Sitio creado con Node y Express en el ámbito del curso de Fullstack Web de Fund
 <img src="./public/images/mlmvc-register.png" width=100%>
 <img src="./public/images/mlmvc-login.png" width=100%>
 <img src="./public/images/mlmvc-addProducts.png" width=100%>
-<img src="./public/images/mlmvc-profile.png" width=100%>
+
 
 ## Dependencias
 Dependencias utilizadas en el proyecto:
